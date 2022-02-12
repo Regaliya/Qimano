@@ -381,6 +381,7 @@ li {
   .main__subscription__form__text {
     width: 200px;
     top: 0;
+    left: 50px;
   }
   .main__subscription__form__button {
     width: 100%;
